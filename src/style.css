@@ -1,0 +1,24 @@
+*{margin: 0;
+    padding: 0;
+    top:0;
+   
+}
+
+body{
+     background-color: black;
+    color: white;
+
+}
+
+
+
+.button{
+    color:white;
+}
+
+p{
+    color: wheat;
+}
+.center{
+    color: green;
+}
