@@ -9,16 +9,21 @@ body{
     color: white;
 
 }
-
+h1{padding: 8px;}
 
 
 .button{
+    padding: 4px;
     color:white;
 }
 
 p{
-    color: wheat;
+    color: rgb(202, 175, 123);
 }
 .center{
-    color: green;
+    color: orange;
+    display: flex;
+    align-items:center ;
+    justify-content: center;
+    padding: 8px;
 }
